@@ -1,16 +1,92 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Nishaanth419/Nishaanth419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Nishaanth 👋
 
-Here are some ideas to get you started:
+**Software Engineer** · Tarka Labs
+*I build AI that ships — RAG pipelines, BERT classifiers, and cloud-native systems that reason in production.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishaanth-k-n-a59a38232)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:knnishaanth@gmail.com)
+
+</div>
+
+---
+
+## 💼 Experience
+
+### Software Engineer · Tarka Labs
+**May 2026 – Present · Bengaluru, India**
+
+> *Projects and contributions coming soon...*
+
+---
+
+### Associate Software Engineer Trainee · Bosch Global Software Technologies
+**Aug 2025 – Apr 2026 · Hyderabad, India**
+
+- Architected an enterprise-grade **RAG system** to automate root cause analysis for AKS clusters, reducing Mean Time to Resolution (MTTR) for critical SRE incidents
+- Designed a fault-tolerant ingestion pipeline using **Power Automate** and **Logic Apps** for real-time cluster alerts with custom deduplication to eliminate alert fatigue
+- Engineered a **Hybrid Context System** combining FAISS vector retrieval with short-term sliding buffers, maintaining 100% conversational coherence in multi-turn troubleshooting
+- Deployed a production-ready **Microsoft Teams Bot** delivering formatted HTML runbooks, enabling engineers to resolve complex issues directly from chat
+
+> `Python` `Azure` `AKS` `Azure Event Hubs` `FAISS` `RAG` `LLMs` `Docker` `Kubernetes` `Power Automate` `Logic Apps` `Teams Bot API`
+
+---
+
+### Machine Learning Intern · Bosch Global Software Technologies
+**Feb 2024 – Jul 2024 · Bengaluru, India**
+
+- Trained and optimized **BERT models** using PyTorch to process and classify high-volume text sequences
+- Built an end-to-end **NLP pipeline** handling tokenization, sequence padding, and feature extraction for multi-class prioritization
+- Operationalized model inference into production-ready **Streamlit** applications, bridging backend logic with actionable insights
+
+> `Python` `PyTorch` `BERT` `HuggingFace` `NLP` `Streamlit` `REST API`
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**AI / ML**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Cloud & Infra**  
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Nishaanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishaanth419&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishaanth419&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎓 Education
+
+**B.E. Computer Science** · Amrita Vishwa Vidyapeetham, Coimbatore · 2024 · CGPA: 8.03
+
+---
+
+<div align="center">
+
+*"Systems that reason in the real world — not just in notebooks."*
+
+</div>
