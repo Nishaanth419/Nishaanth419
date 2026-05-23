@@ -71,8 +71,9 @@
 
 | Project | Description |
 |---|---|
-| [aks-dashboard](https://github.com/Nishaanth419/aks-dashboard) | AKS cluster monitoring and observability dashboard |
-| [srebot_bosch](https://github.com/Nishaanth419/srebot_bosch) | RAG-powered SRE incident intelligence bot · Azure · FAISS · Teams Bot |
+| [AKS_diagnosis_Dashboard](https://github.com/Nishaanth419/AKS_diagnosis_Dashboard) | AKS cluster monitoring and observability dashboard |
+| [SRE_Bot_Bosch](https://github.com/Nishaanth419/SRE_Bot_Bosch) | RAG-powered SRE incident intelligence bot · Azure · FAISS · Teams Bot |
+| [Delta_Writing_Risingwave](https://github.com/Nishaanth419/Delta_Writing_Risingwave) | Real-time delta writing architecture using Apache Kafka & RisingWave — continuous stream ingestion with materialized views for always-fresh state |
 | [Business-Analytics-Movielens](https://github.com/Nishaanth419/Business-Analytics-Movielens) | ML analytics on MovieLens — collaborative filtering, social network analysis, text mining |
 
 ---
