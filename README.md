@@ -22,7 +22,7 @@
 ---
 
 ### Associate Software Engineer Trainee · Bosch Global Software Technologies
-**Aug 2025 – Apr 2026 · Hyderabad, India**
+**Aug 2025 – May 2026 · Hyderabad, India**
 
 - Architected an enterprise-grade **RAG system** to automate root cause analysis for AKS clusters, reducing Mean Time to Resolution (MTTR) for critical SRE incidents
 - Designed a fault-tolerant ingestion pipeline using **Power Automate** and **Logic Apps** for real-time cluster alerts with custom deduplication to eliminate alert fatigue
