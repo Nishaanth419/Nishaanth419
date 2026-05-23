@@ -15,13 +15,13 @@
 ## 💼 Experience
 
 ### Software Engineer · Tarka Labs
-**May 2026 – Present · Bengaluru, India**
+**May 2026 – Present · India**
 
 > *Projects and contributions coming soon...*
 
 ---
 
-### Associate Software Engineer Trainee · Bosch Global Software Technologies
+### Associate Software Engineer  · Bosch Global Software Technologies
 **Aug 2025 – May 2026 · Hyderabad, India**
 
 - Architected an enterprise-grade **RAG system** to automate root cause analysis for AKS clusters, reducing Mean Time to Resolution (MTTR) for critical SRE incidents
@@ -67,15 +67,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Projects
 
-<div align="center">
-
-![Nishaanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishaanth419&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishaanth419&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+| Project | Description |
+|---|---|
+| [aks-dashboard](https://github.com/Nishaanth419/aks-dashboard) | AKS cluster monitoring and observability dashboard |
+| [srebot_bosch](https://github.com/Nishaanth419/srebot_bosch) | RAG-powered SRE incident intelligence bot · Azure · FAISS · Teams Bot |
+| [Business-Analytics-Movielens](https://github.com/Nishaanth419/Business-Analytics-Movielens) | ML analytics on MovieLens — collaborative filtering, social network analysis, text mining |
 
 ---
 
