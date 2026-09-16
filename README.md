@@ -1,91 +1,61 @@
-<div align="center">
+# Nishaanth K N
+[LinkedIn](https://www.linkedin.com/in/nishaanth-k-n-a59a38232) · [Email](mailto:knnishaanth@gmail.com) · [Portfolio](https://k2n.online)
 
-# Hey, I'm Nishaanth 👋
+I build AI systems that work outside the notebook.
 
-**Software Engineer** · Tarka Labs
-*I build AI that ships — RAG pipelines, BERT classifiers, and cloud-native systems that reason in production.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishaanth-k-n-a59a38232)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:knnishaanth@gmail.com)
-
-</div>
+Not just the model — the pipeline behind it, the infra under it,
+and the context window you have to fight for every token of.
+I pick up whatever the problem needs. Polyglot by habit, not by resume.
 
 ---
 
-## 💼 Experience
+## things I'm actually good at
 
-### Software Engineer · Tarka Labs
-**May 2026 – Present · India**
-
-> *Projects and contributions coming soon...*
-
----
-
-### Associate Software Engineer  · Bosch Global Software Technologies
-**Aug 2025 – May 2026 · Hyderabad, India**
-
-- Architected an enterprise-grade **RAG system** to automate root cause analysis for AKS clusters, reducing Mean Time to Resolution (MTTR) for critical SRE incidents
-- Designed a fault-tolerant ingestion pipeline using **Power Automate** and **Logic Apps** for real-time cluster alerts with custom deduplication to eliminate alert fatigue
-- Engineered a **Hybrid Context System** combining FAISS vector retrieval with short-term sliding buffers, maintaining 100% conversational coherence in multi-turn troubleshooting
-- Deployed a production-ready **Microsoft Teams Bot** delivering formatted HTML runbooks, enabling engineers to resolve complex issues directly from chat
-
-> `Python` `Azure` `AKS` `Azure Event Hubs` `FAISS` `RAG` `LLMs` `Docker` `Kubernetes` `Power Automate` `Logic Apps` `Teams Bot API`
+- Tracing why a system behaves differently in prod than it did on my machine
+- Knowing where in a RAG pipeline the answer went wrong — retrieval, chunking, prompt, or model
+- Wiring together the unglamorous parts: queues, deduplication, alert routing, context management
+- Working with LLMs without trusting them — evals, fallbacks, and knowing when to not use one
 
 ---
 
-### Machine Learning Intern · Bosch Global Software Technologies
-**Feb 2024 – Jul 2024 · Bengaluru, India**
+## layers I've gotten my hands dirty in
 
-- Trained and optimized **BERT models** using PyTorch to process and classify high-volume text sequences
-- Built an end-to-end **NLP pipeline** handling tokenization, sequence padding, and feature extraction for multi-class prioritization
-- Operationalized model inference into production-ready **Streamlit** applications, bridging backend logic with actionable insights
-
-> `Python` `PyTorch` `BERT` `HuggingFace` `NLP` `Streamlit` `REST API`
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**AI / ML**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-**Cloud & Infra**  
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
----
-
-## 📌 Projects
-
-| Project | Description |
+| | |
 |---|---|
-| [AKS_diagnosis_Dashboard](https://github.com/Nishaanth419/AKS_diagnosis_Dashboard) | AKS cluster monitoring and observability dashboard |
-| [SRE_Bot_Bosch](https://github.com/Nishaanth419/SRE_Bot_Bosch) | RAG-powered SRE incident intelligence bot · Azure · FAISS · Teams Bot |
-| [Delta_Writing_Risingwave](https://github.com/Nishaanth419/Delta_Writing_Risingwave) | Real-time delta writing architecture using Apache Kafka & RisingWave — continuous stream ingestion with materialized views for always-fresh state |
-| [Business-Analytics-Movielens](https://github.com/Nishaanth419/Business-Analytics-Movielens) | ML analytics on MovieLens — collaborative filtering, social network analysis, text mining |
+| Retrieval | Documents, embeddings, hybrid search — and the ranking decisions nobody talks about |
+| Agent orchestration | Multi-turn flows with LangChain and LangGraph, tool use, and graceful failure modes |
+| Infra | Kubernetes, Docker, Azure, event-driven pipelines that need to stay up |
+| Model work | BERT fine-tuning, prompt engineering, inference pipelines, HuggingFace |
+| Interfaces | Streamlit apps and Teams bots — whatever gets the output in front of the person who needs it |
+
+Things I've used: Python, LangChain, LangGraph, FAISS, PyTorch, Azure, AKS,
+Docker, Kubernetes, PostgreSQL, HuggingFace, Streamlit, SQL, Java.
+The list keeps changing. That's the point.
 
 ---
 
-## 🎓 Education
+## Stuff I've Worked on
 
-**B.E. Computer Science** · Amrita Vishwa Vidyapeetham, Coimbatore · 2024 · CGPA: 8.03
+**[SRE incident bot](https://github.com/Nishaanth419/SRE_Bot_Bosch)** — RAG system for AKS cluster debugging. The hard part wasn't
+the retrieval. It was deduplication, conversational coherence, and getting
+engineers to trust it at 2am.
+
+**[AKS observability dashboard](https://github.com/Nishaanth419/AKS_diagnosis_Dashboard)** — cluster health monitoring. Useful tools are
+boring tools.
+
+**[Real-time ingestion pipeline](https://github.com/Nishaanth419/Delta_Writing_Risingwave)** — Kafka + RisingWave for continuous stream
+processing with materialized views. Fresh state without full rebuilds.
+
+**[MovieLens analytics](https://github.com/Nishaanth419/Business-Analytics-Movielens)** — collaborative filtering, graph analysis, text mining.
+The point where algorithms get real.
 
 ---
 
-<div align="center">
+## what's keeping me up right now
 
-*"Systems that reason in the real world — not just in notebooks."*
+Production AI systems break in ways demos never do — the model returns something
+plausible but wrong, the tool call fails silently, the user asks something
+the system was never designed to handle. I'm interested in the gap between
+"it works in the demo" and "it works six months later with real users."
 
-</div>
+---
