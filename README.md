@@ -1,7 +1,7 @@
 # Nishaanth K N
 [LinkedIn](https://www.linkedin.com/in/nishaanth-k-n-a59a38232) · [Email](mailto:knnishaanth@gmail.com) · [Portfolio](https://k2n.online)
 
-I build AI systems that work outside the notebook.
+I build AI systems.
 
 Not just the model — the pipeline behind it, the infra under it,
 and the context window you have to fight for every token of.
